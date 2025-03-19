@@ -4,9 +4,7 @@ With over 13 years of experience as a Lead Software Developer, I specialize in c
 
 - 📫 How to reach me: mahalakshmi.latha@gmail.com
 
-## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mahalakshmilatha&show_icons=true&hide_border=true)
 
 ## Top Languages
 
@@ -14,7 +12,7 @@ With over 13 years of experience as a Lead Software Developer, I specialize in c
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/mahalakshmilatha](https://www.linkedin.com/in/mahalakshmi-alagarsamy-47417518/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]https://www.linkedin.com/in/mahalakshmi-alagarsamy-47417518/
 
 
 

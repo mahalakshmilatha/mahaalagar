@@ -12,7 +12,7 @@ With over 13 years of experience as a Lead Software Developer, I specialize in c
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]https://www.linkedin.com/in/mahalakshmi-alagarsamy-47417518/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mahalakshmi-alagarsamy-47417518/)
 
 
 

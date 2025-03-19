@@ -1,15 +1,8 @@
-# Hi there, I'm Mahalakshmi Alagarsamy 👋
+# Hi there, I'm Mahalakshmi Alagarsamy. Welcome to my Github Repository! 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=mahalakshmilatha&color=blue)
+With over 13 years of experience as a Lead Software Developer, I specialize in creating innovative, high-performance solutions using .NET, Azure and SharePoint technologies. I have a strong history of leading cross-functional teams, driving the successful delivery of complex web applications, and consistently exceeding stakeholder expectations. My focus is on building scalable systems, optimizing development processes, and fostering a culture of collaboration and continuous improvement. I’m passionate about delivering value through technical excellence and strategic leadership.
 
-## About Me
-
-- 🌱 I’m currently learning advanced data structures and algorithms.
-- 👯 I’m looking to collaborate on open-source Python projects.
-- 🤔 I’m looking for help with machine learning projects.
-- 💬 Ask me about web development and Python.
-- 📫 How to reach me: mahalakshmi@example.com
-- ⚡ Fun fact: I love hiking and photography.
+- 📫 How to reach me: mahalakshmi.latha@gmail.com
 
 ## GitHub Stats
 
@@ -21,20 +14,8 @@
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mahalakshmilatha)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/mahalakshmilatha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/mahalakshmilatha](https://www.linkedin.com/in/mahalakshmi-alagarsamy-47417518/))
 
-## Projects
 
-- [Project 1](https://github.com/mahalakshmilatha/project1) - A project that does X
-- [Project 2](https://github.com/mahalakshmilatha/project2) - A project that helps with Y
 
-## Blog Posts
 
-- [Understanding Python Decorators](https://yourblog.com/python-decorators)
-- [Introduction to Machine Learning](https://yourblog.com/machine-learning)
-
-## Achievements
-
-- 🏆 Completed 100 Days of Code challenge.
-- 🏆 Contributed to 10+ open-source projects.

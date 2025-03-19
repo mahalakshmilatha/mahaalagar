@@ -6,9 +6,6 @@ With over 13 years of experience as a Lead Software Developer, I specialize in c
 
 
 
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahalakshmilatha&layout=compact)
 
 ## Connect with me
 
